@@ -1,0 +1,15 @@
+html {
+    background-color: black;
+
+}
+.paling-atas {
+  background-color: #333;
+  color:darkgoldenrod;
+}
+.tabel {
+    background-color: #333;
+    color:white;
+    margin: 25%;
+    width: 50%;
+    
+}
