@@ -1,0 +1,26 @@
+html{
+    background-color: black;
+}
+.paling-atas {
+   color:darkgoldenrod;
+   background-color: #333;
+}
+
+.teks-hari {
+    text-align: justify;
+    font-size: 20px;
+
+}
+
+p span.number {
+    color: red;
+}
+
+.paragraf-satu {
+    color:gold;
+
+}
+
+.paragraf-dua {
+    color:chartreuse;
+}
